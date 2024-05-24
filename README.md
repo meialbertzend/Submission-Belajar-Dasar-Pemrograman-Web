@@ -13,3 +13,6 @@
 4. Menyusun layout menggunakan flexbox, bukan float.
 5. Tema yang ditampilkan bebas, kecuali tema Bandung.
    Semakin detail dan lengkap website Anda maka nilai submission akan makin tinggi.
+
+![kost-putra-zend](https://github.com/meialbertzend/Submission-Belajar-Dasar-Pemrograman-Web/assets/141926927/498f0986-1f08-4e85-9556-7e1f9245fbd0)
+![kost-putra-zend2](https://github.com/meialbertzend/Submission-Belajar-Dasar-Pemrograman-Web/assets/141926927/e34464ab-003f-4a70-8a07-4dc70e1c7290)
